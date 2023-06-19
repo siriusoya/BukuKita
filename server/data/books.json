@@ -1,0 +1,98 @@
+[
+  {
+    "title": "A Tale of Two Cities",
+    "isbn": "9780582030473",
+    "condition": "Baik",
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41WY82WVS0L.jpg",
+    "author": "Charles Dickens",
+    "OwnerId": 1
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "isbn": "9788869183157",
+    "condition": "Baik",
+    "imgUrl": "https://pictures.abebooks.com/isbn/9788869183157-us.jpg",
+    "author": "J.K. Rowling",
+    "OwnerId": 1
+  },
+  {
+    "title": "And Then There Were None",
+    "isbn": "9781628992199",
+    "condition": "Ada halaman hilang",
+    "imgUrl": "https://m.media-amazon.com/images/I/51W7ynoiRsL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "author": "Agatha Christie",
+    "OwnerId": 1
+  },
+  {
+    "title": "The Hobbit",
+    "isbn": "9780044403371",
+    "condition": "Kertas menguning",
+    "imgUrl": "https://m.media-amazon.com/images/I/41a7qVegqnL._SX437_BO1,204,203,200_.jpg",
+    "author": "J. R. R. Tolkien",
+    "OwnerId": 1
+  },
+  {
+    "title": "The Da Vinci Code",
+    "isbn": "9780307474278",
+    "condition": "Halaman sobek",
+    "imgUrl": "https://i.biblio.com/f/278/474/9780307474278.RH.0.m.jpg",
+    "author": "Dan Brown",
+    "OwnerId": 2
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "isbn": "9780721410180",
+    "condition": "Baik",
+    "imgUrl": "https://pictures.abebooks.com/inventory/22585118102.jpg",
+    "author": "Beatrix Potter",
+    "OwnerId": 3
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "isbn": "9780060173227",
+    "condition": "Baik",
+    "imgUrl": "https://d3525k1ryd2155.cloudfront.net/f/227/173/9780060173227.OL.0.m.jpg",
+    "author": "Harper Lee",
+    "OwnerId": 4
+  },
+  {
+    "title": "Sophie's World",
+    "isbn": "9780425152256",
+    "condition": "Baik",
+    "imgUrl": "https://pictures.abebooks.com/isbn/9780425152256-us.jpg",
+    "author": "Jostein Gaarder",
+    "OwnerId": 5
+  },
+  {
+    "title": "Flowers in the Attic",
+    "isbn": "9780671640453",
+    "condition": "Baik",
+    "imgUrl": "https://d3525k1ryd2155.cloudfront.net/f/453/640/9780671640453.OL.0.m.jpg",
+    "author": "V. C. Andrews",
+    "OwnerId": 2
+  },
+  {
+    "title": "The Great Gatsby",
+    "isbn": "9780333791035",
+    "condition": "Jelek",
+    "imgUrl": "https://pictures.abebooks.com/isbn/9780684163253-us.jpg",
+    "author": "F. Scott Fitzgerald",
+    "OwnerId": 3
+  },
+  {
+    "title": "The Hunger Games",
+    "isbn": "9780439023481",
+    "condition": "Baik",
+    "imgUrl": "https://m.media-amazon.com/images/I/414fBKKVniL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "author": "Suzanne Collins",
+    "OwnerId": 4
+  },
+  {
+    "title": "Animal Farm",
+    "isbn": "9780151002177",
+    "condition": "Lusuh",
+    "imgUrl": "https://africanlightbookandcoffeeshop.com/cdn/shop/products/ScreenShot2020-09-09at10.20.39PM_360x.png?v=1599708258",
+    "author": "George Orwell",
+    "OwnerId": 5
+  }
+]

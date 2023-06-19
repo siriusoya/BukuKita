@@ -1,0 +1,42 @@
+[
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "password",
+      
+      "phoneNumber": "6658372523",
+      "city": "Medan"
+    },
+    {
+        "name": "staff1",
+        "email": "staff1@gmail.com",
+        "password": "password",
+        
+        "phoneNumber": "3788209077",
+        "city": "Yoyakarta"
+    },
+    {
+      "name": "clane2",
+      "email": "rprobart0@miibeian.gov.cn",
+      "password": "5d3pNS",
+      
+      "phoneNumber": "5377985608",
+      "city": "Jakarta"
+    },
+    {
+        "name": "hvalasek3",
+        "email": "fhadden1@dedecms.com",
+        "password": "WTLLBQ",
+        
+        "phoneNumber": "9165763490",
+        "city": "Surabaya"
+    },
+    {
+        "name": "tluck4",
+        "email": "bclousley2@tinypic.com",
+        "password": "nWQLDLLpnymt",
+        
+        "phoneNumber": "6808447880",
+        "city": "Bandung"
+    }
+  ]
